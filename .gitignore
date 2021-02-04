@@ -1,3 +1,8 @@
+
+# exlude all jpeg and jpg
+*.jpeg
+*.jpg
+
 # Build and Release Folders
 bin-debug/
 bin-release/
