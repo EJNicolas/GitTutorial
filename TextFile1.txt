@@ -3,3 +3,5 @@ This is text file 1.
 Edit 1: this is my sample file 1
 
 Edit 2: this is the 2nd edit of file 1 for the new branch
+
+Developer 2: working on this file
